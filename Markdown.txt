@@ -1,0 +1,6 @@
+Lab1 Discussions
+
+Discussion: What would be a really simple solution if n were not an argument, i.e., if it were always 17?
+- You can declare n in your class and give it a number of 17. Thus, when you create a new method, you will not need to give it paramaters. 
+When you create a new object of class FizzBuzz in your main, just call the objectname.methodname without paramaters because you will have
+n already declared, so it will just run the program.
